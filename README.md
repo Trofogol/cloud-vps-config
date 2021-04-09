@@ -32,6 +32,6 @@ This repo's main script uses the other files to
 
 1. clone this repo
 
-1. change working directory to this repo `cd time4vps-config`
+1. change working directory to this repo `cd cloud-vps-config`
 
 1. run init install script (specify your own user): `./init_install.sh username`
